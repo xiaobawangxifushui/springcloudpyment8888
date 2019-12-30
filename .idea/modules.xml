@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment80/payment80.iml" filepath="$PROJECT_DIR$/payment80/payment80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment8886/payment8886.iml" filepath="$PROJECT_DIR$/payment8886/payment8886.iml" />
+      <module fileurl="file://$PROJECT_DIR$/payment8887/payment8887.iml" filepath="$PROJECT_DIR$/payment8887/payment8887.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloudpyment8888.iml" filepath="$PROJECT_DIR$/springcloudpyment8888.iml" />
+    </modules>
+  </component>
+</project>

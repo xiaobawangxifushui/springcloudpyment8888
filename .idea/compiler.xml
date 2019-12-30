@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="commons" />
+        <module name="payment80" />
+        <module name="payment8886" />
+        <module name="payment8887" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="commons" target="1.8" />
+      <module name="payment80" target="1.8" />
+      <module name="payment8886" target="1.8" />
+      <module name="payment8887" target="1.8" />
+      <module name="springcloudpyment8888" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
